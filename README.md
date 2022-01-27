@@ -21,15 +21,15 @@
 
 ## Project Report 
 
-  - [Project Report](https://github.com/Amey-Thakur/DATABASE-MANAGEMENT-SYSTEM/blob/main/Mini%20Project%20Report/B-42%2C45%2C50%2C51_DBMS_Mini_Project.pdf) 
+  >[Project Report](https://github.com/Amey-Thakur/DATABASE-MANAGEMENT-SYSTEM/blob/main/Mini%20Project%20Report/B-42%2C45%2C50%2C51_DBMS_Mini_Project.pdf) 
  
-  - Car Rental Database System | [Source Code](https://github.com/Amey-Thakur/CAR-RENTAL-SYSTEM)
+  >Car Rental Database System | [Source Code](https://github.com/Amey-Thakur/CAR-RENTAL-SYSTEM)
  
-    It is a simple Car Rental Database Management System.
+  - It is a simple Car Rental Database Management System.
 
-  - Research Paper
+  ### Research Paper
  
-    [Published Paper @IJRASET](https://doi.org/10.22214/ijraset.2021.36339)
+   - [Published Paper @IJRASET](https://doi.org/10.22214/ijraset.2021.36339)
 
 ## Quizzes
 
