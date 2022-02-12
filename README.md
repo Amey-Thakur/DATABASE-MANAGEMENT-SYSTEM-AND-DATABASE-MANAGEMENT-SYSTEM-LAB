@@ -62,6 +62,10 @@
  - Online Test [All Subjects - 3](https://github.com/Amey-Thakur/DATABASE-MANAGEMENT-SYSTEM-AND-DATABASE-MANAGEMENT-SYSTEM-LAB/blob/main/Online%20Exam/TE_B_Online_Test(All%20Subject)-3.pdf)
  - Online Test [All Subjects - 4](https://github.com/Amey-Thakur/DATABASE-MANAGEMENT-SYSTEM-AND-DATABASE-MANAGEMENT-SYSTEM-LAB/blob/main/Online%20Exam/TE_B_Online_Test(All%20Subject)-4.pdf)
 
+## Semester Exam
+
+ - DBMS Answersheet - [Q2](https://github.com/Amey-Thakur/DATABASE-MANAGEMENT-SYSTEM-AND-DATABASE-MANAGEMENT-SYSTEM-LAB/blob/main/Semester%20Exam/Q.2_DBMS.pdf) | [Q3](https://github.com/Amey-Thakur/DATABASE-MANAGEMENT-SYSTEM-AND-DATABASE-MANAGEMENT-SYSTEM-LAB/blob/main/Semester%20Exam/Q.3_DBMS.pdf)
+
 ## Question Papers
 
  - [Previous Question Papers](https://github.com/Amey-Thakur/DATABASE-MANAGEMENT-SYSTEM-AND-DATABASE-MANAGEMENT-SYSTEM-LAB/tree/main/Question%20Papers)
