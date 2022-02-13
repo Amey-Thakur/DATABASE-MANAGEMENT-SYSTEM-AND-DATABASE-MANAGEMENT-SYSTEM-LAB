@@ -4,7 +4,7 @@
 ---
  
  - [X] **[Syllabus](https://github.com/Amey-Thakur/DATABASE-MANAGEMENT-SYSTEM-AND-DATABASE-MANAGEMENT-SYSTEM-LAB/blob/main/Syllabus/TE%20BE%20Comp%20Engg%20CBCGS%20Syllabus.pdf)**
- - [x] **DBMS - [Reference Books](https://github.com/Amey-Thakur/DATABASE-MANAGEMENT-SYSTEM-AND-DATABASE-MANAGEMENT-SYSTEM-LAB/tree/main/Reference%20Books)**
+ - [X] **DBMS - [Reference Books](https://github.com/Amey-Thakur/DATABASE-MANAGEMENT-SYSTEM-AND-DATABASE-MANAGEMENT-SYSTEM-LAB/tree/main/Reference%20Books)**
 
 ---
 
