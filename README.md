@@ -9,7 +9,7 @@
 ---
 
 ## MEGA NOTES
- >**[Mega Satish](https://github.com/msatmod)**
+ >**[MEGA SATISH](https://github.com/msatmod) - AUTHOR**
  - DBMS [MODULE - 1](https://github.com/Amey-Thakur/DATABASE-MANAGEMENT-SYSTEM-AND-DATABASE-MANAGEMENT-SYSTEM-LAB/blob/main/MEGA%20NOTES/Module1_DBMS.pdf)
  - DBMS [MODULE - 2](https://github.com/Amey-Thakur/DATABASE-MANAGEMENT-SYSTEM-AND-DATABASE-MANAGEMENT-SYSTEM-LAB/blob/main/MEGA%20NOTES/Module2_DBMS.pdf)
  - DBMS [MODULE - 3](https://github.com/Amey-Thakur/DATABASE-MANAGEMENT-SYSTEM-AND-DATABASE-MANAGEMENT-SYSTEM-LAB/blob/main/MEGA%20NOTES/Module3_DBMS.pdf)
