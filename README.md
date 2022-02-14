@@ -33,12 +33,16 @@
  - DBMS [Experiment - 9](https://github.com/Amey-Thakur/DATABASE-MANAGEMENT-SYSTEM-AND-DATABASE-MANAGEMENT-SYSTEM-LAB/blob/main/Experiments/Amey_B-50_DBMS_Experiments-9.pdf)
  - DBMS [Experiment - 10](https://github.com/Amey-Thakur/DATABASE-MANAGEMENT-SYSTEM-AND-DATABASE-MANAGEMENT-SYSTEM-LAB/blob/main/Experiments/Amey_B-50_DBMS_Experiments-10.pdf)
 
-## Project Report 
- >[Project Report](https://github.com/Amey-Thakur/DATABASE-MANAGEMENT-SYSTEM-AND-DATABASE-MANAGEMENT-SYSTEM-LAB/blob/main/Mini%20Project%20Report/B-42%2C45%2C50%2C51_DBMS_Mini_Project.pdf) 
+## Project
+ >**Car Rental Database System | [SOURCE CODE](https://github.com/Amey-Thakur/CAR-RENTAL-SYSTEM)**
  
- >Car Rental Database System | [Source Code](https://github.com/Amey-Thakur/CAR-RENTAL-SYSTEM)
+ - It is a simple Car Rental Database Management System.
 
-- It is a simple Car Rental Database Management System.
+ - **[Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Research%20Papers/Car%20Rental%20System/IJRASET36339%20-%20Car%20Rental%20System.pdf)** 
+ - **IJRASET | Volume 9 Issue 7 | [Published Article](https://doi.org/10.22214/ijraset.2021.36339)** 
+ - **viXra | [Preprint](https://vixra.org/abs/2108.0140)**
+
+ - [Project Report](https://github.com/Amey-Thakur/DATABASE-MANAGEMENT-SYSTEM-AND-DATABASE-MANAGEMENT-SYSTEM-LAB/blob/main/Mini%20Project%20Report/B-42%2C45%2C50%2C51_DBMS_Mini_Project.pdf) 
 
  ### Research Paper
  - [Published Paper @IJRASET](https://doi.org/10.22214/ijraset.2021.36339)
