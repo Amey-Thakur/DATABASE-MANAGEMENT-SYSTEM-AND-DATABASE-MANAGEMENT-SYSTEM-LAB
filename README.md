@@ -10,11 +10,17 @@
 
 ## MEGA NOTES
  >**[MEGA SATISH](https://github.com/msatmod) - AUTHOR**
+ 
  - DBMS [MODULE - 1](https://github.com/Amey-Thakur/DATABASE-MANAGEMENT-SYSTEM-AND-DATABASE-MANAGEMENT-SYSTEM-LAB/blob/main/MEGA%20NOTES/Module1_DBMS.pdf)
+ 
  - DBMS [MODULE - 2](https://github.com/Amey-Thakur/DATABASE-MANAGEMENT-SYSTEM-AND-DATABASE-MANAGEMENT-SYSTEM-LAB/blob/main/MEGA%20NOTES/Module2_DBMS.pdf)
+ 
  - DBMS [MODULE - 3](https://github.com/Amey-Thakur/DATABASE-MANAGEMENT-SYSTEM-AND-DATABASE-MANAGEMENT-SYSTEM-LAB/blob/main/MEGA%20NOTES/Module3_DBMS.pdf)
+ 
  - DBMS [MODULE - 4](https://github.com/Amey-Thakur/DATABASE-MANAGEMENT-SYSTEM-AND-DATABASE-MANAGEMENT-SYSTEM-LAB/blob/main/MEGA%20NOTES/Module4_DBMS.pdf)
+ 
  - DBMS [MODULE - 5](https://github.com/Amey-Thakur/DATABASE-MANAGEMENT-SYSTEM-AND-DATABASE-MANAGEMENT-SYSTEM-LAB/blob/main/MEGA%20NOTES/Module5_DBMS.pdf)
+ 
  - DBMS [MODULE - 6](https://github.com/Amey-Thakur/DATABASE-MANAGEMENT-SYSTEM-AND-DATABASE-MANAGEMENT-SYSTEM-LAB/blob/main/MEGA%20NOTES/Module6_DBMS.pdf)
 
 ## Assignments
@@ -45,7 +51,7 @@
  - [Project Report](https://github.com/Amey-Thakur/DATABASE-MANAGEMENT-SYSTEM-AND-DATABASE-MANAGEMENT-SYSTEM-LAB/blob/main/Mini%20Project%20Report/B-42%2C45%2C50%2C51_DBMS_Mini_Project.pdf) 
 
  ### Research Paper
- - [Published Paper @IJRASET](https://doi.org/10.22214/ijraset.2021.36339)
+  - [Published Paper @IJRASET](https://doi.org/10.22214/ijraset.2021.36339)
 
 ## Quizzes
  - [Quiz 1](https://github.com/Amey-Thakur/DATABASE-MANAGEMENT-SYSTEM-AND-DATABASE-MANAGEMENT-SYSTEM-LAB/blob/main/Quizzes/AMEY_B-50%20DBMS%20Quiz%201%20(co1%2Cco2%2Cco3).pdf) | Modules 1, 2 & 3
