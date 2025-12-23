@@ -37,15 +37,20 @@
 ## How to Use
 
 ### Running SQL Scripts
-1. **Platform**: These scripts are designed for **Oracle Database**.
-2. **Execution**: You can run these commands in:
-   - Oracle SQL*Plus Command Line
-   - Oracle SQL Developer
-   - Online SQL compilers (e.g., LiveSQL)
+These scripts are tailored for **Oracle Database** environments.
+
+**1. Prerequisites**
+Ensure you have access to one of the following tools:
+- **Oracle SQL*Plus** (Command Line Interface)
+- **Oracle SQL Developer** (GUI Tool)
+- **Oracle LiveSQL** (Online Compiler)
+
+**2. Execution Guide**
+To execute a script file (e.g., `filename.sql`) in SQL*Plus, use the `@` command followed by the file path:
 
 ```sql
--- Example: Running an SQL script in SQL*Plus
-@path_to_file/filename.sql
+-- Syntax: @<path_to_file>/<filename>.sql
+@D:/DBMS_Lab/Experiment-1/01_Basic_SQL_Queries.sql
 ```
 
 ---
