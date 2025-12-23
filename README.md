@@ -383,11 +383,11 @@ Previous year university question papers:
 
 Course completion documentation with exit survey:
 
-| Document | Description |
-|:---|:---|
-| [Submission Report](Submission%20Report/Amey_B-50_DBMS_Submission_Report.pdf) | Final coursework submission report |
-| [Exit Survey (Theory)](Submission%20Report/Amey_B-50_DBMS_Theory_Exit_Survey.pdf) | Course outcome survey for DBMS Theory |
-| [Exit Survey (Lab)](Submission%20Report/Amey_B-50_DBMS_Lab_Exit_Survey.pdf) | Course outcome survey for DBMS Lab |
+| # | Document | Description |
+|:-:|:---|:---|
+| 1 | [Submission Report](Submission%20Report/Amey_B-50_DBMS_Submission_Report.pdf) | Final coursework submission report |
+| 2 | [Exit Survey (Theory)](Submission%20Report/Amey_B-50_DBMS_Theory_Exit_Survey.pdf) | Course outcome survey for DBMS Theory |
+| 3 | [Exit Survey (Lab)](Submission%20Report/Amey_B-50_DBMS_Lab_Exit_Survey.pdf) | Course outcome survey for DBMS Lab |
 
 ---
 
