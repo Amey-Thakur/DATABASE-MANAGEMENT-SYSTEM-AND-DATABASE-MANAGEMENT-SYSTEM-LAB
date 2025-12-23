@@ -27,8 +27,6 @@
 > [!WARNING]
 > **Data Integrity**: When executing DML commands (INSERT, UPDATE, DELETE), always remember to `COMMIT` your transactions to permanently save changes. Exercise extreme caution when using `DELETE` or `DROP` statements without a `WHERE` clause to avoid irreversible data loss.
 
----
-
 
 
 <!-- =========================================================================================
