@@ -128,6 +128,20 @@ Academic assignments for comprehensive learning and practice:
 ---
 
 <!-- =========================================================================================
+                                     QUIZZES SECTION
+     ========================================================================================= -->
+### Quizzes
+
+DBMS-specific quizzes conducted during the course:
+
+| # | Quiz | Topics | Date | Marks |
+|:-:|:---|:---|:---:|:---:|
+| 1 | [Quiz 1](Quizzes/AMEY_B-50%20DBMS%20Quiz%201%20(co1%2Cco2%2Cco3).pdf) | Modules 1, 2, 3 | November 30, 2020 | 6/6 |
+| 2 | [Quiz 2](Quizzes/AMEY_B-50%20DBMS%20Quiz%202%20(co4%2Cco5%2Cco6).pdf) | Modules 4, 5, 6 | November 30, 2020 | 6/6 |
+
+---
+
+<!-- =========================================================================================
                                      LABORATORY SECTION
      ========================================================================================= -->
 ## Database Management System Laboratory
@@ -312,19 +326,7 @@ This project implements a Car Rental Database Management System using PHP and My
 
 ---
 
-<!-- =========================================================================================
-                                     QUIZZES SECTION
-     ========================================================================================= -->
-## Quizzes
 
-DBMS-specific quizzes conducted during the course:
-
-| Quiz | Topics | Date | Marks |
-|:---|:---|:---:|:---:|
-| [Quiz 1](Quizzes/AMEY_B-50%20DBMS%20Quiz%201%20(co1%2Cco2%2Cco3).pdf) | Modules 1, 2, 3 | November 30, 2020 | 6/6 |
-| [Quiz 2](Quizzes/AMEY_B-50%20DBMS%20Quiz%202%20(co4%2Cco5%2Cco6).pdf) | Modules 4, 5, 6 | November 30, 2020 | 6/6 |
-
----
 
 <!-- =========================================================================================
                                      ONLINE EXAM SECTION
