@@ -18,7 +18,7 @@
 
   ---
 
-  [📖 Overview](#overview) &nbsp;·&nbsp; [📂 Contents](#repository-contents) &nbsp;·&nbsp; [📚 Reference Books](#reference-books) &nbsp;·&nbsp; [👫🏻 Mega's Notes](#megas-notes) &nbsp;·&nbsp; [📄 Assignments](#assignments) &nbsp;·&nbsp; [🧪 Laboratory](#database-management-system-laboratory) &nbsp;·&nbsp; [🎮 Project](#database-management-system-project) &nbsp;·&nbsp; [🧠 Quizzes](#quizzes) &nbsp;·&nbsp; [💻 Online Exam](#online-exam) &nbsp;·&nbsp; [🎓 Semester Exam](#semester-exam) &nbsp;·&nbsp; [📝 Question Papers](#question-papers) &nbsp;·&nbsp; [✅ Submission Report](#submission-completion-report) &nbsp;·&nbsp; [📋 Syllabus](#syllabus) &nbsp;·&nbsp; [📘 Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [📜 License](#license) &nbsp;·&nbsp; [ℹ️ About](#about-this-repository) &nbsp;·&nbsp; [🙏🏻 Acknowledgments](#acknowledgments)
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Mega's Notes](#megas-notes) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Laboratory](#database-management-system-laboratory) &nbsp;·&nbsp; [Project](#database-management-system-project) &nbsp;·&nbsp; [Quizzes](#quizzes) &nbsp;·&nbsp; [Online Exam](#online-exam) &nbsp;·&nbsp; [Semester Exam](#semester-exam) &nbsp;·&nbsp; [Question Papers](#question-papers) &nbsp;·&nbsp; [Submission Report](#submission-completion-report) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
@@ -118,10 +118,10 @@ This collection includes **comprehensive reference materials** covering all majo
 
 Academic assignments for comprehensive learning and practice:
 
-| # | Assignment | Description | Date | Marks | Link |
-|:-:|:---|:---|:---:|:---:|:---:|
-| 1 | **Assignment 1** | ER Diagrams and Relational Model basics | September 08, 2020 | 57/60 | [📄 View](Assignments/Amey_B-50_DBMS_Assignment-1.pdf) |
-| 2 | **Assignment 2** | Normalization and Transaction Management | November 24, 2020 | 54/60 | [📄 View](Assignments/Amey_B-50_DBMS_Assignment-2.pdf) |
+| # | Assignment | Description | Date | Marks |
+|:-:|:---|:---|:---:|:---:|
+| 1 | [Assignment 1](Assignments/Amey_B-50_DBMS_Assignment-1.pdf) | ER Diagrams and Relational Model basics | September 08, 2020 | 57/60 |
+| 2 | [Assignment 2](Assignments/Amey_B-50_DBMS_Assignment-2.pdf) | Normalization and Transaction Management | November 24, 2020 | 54/60 |
 
 **Topics Covered**: Entity-Relationship Modeling (ER Diagrams, Weak/Strong Entities) · Relational Model (Schema Design) · Normalization (1NF, 2NF, 3NF, BCNF) · Transaction Management (ACID Properties, Serializability)
 
@@ -145,23 +145,23 @@ The laboratory component (CSL503) focuses on hands-on implementation of SQL quer
 > [!TIP]
 > **Source Code**: For the complete SQL source code and detailed documentation of each experiment, visit the [**Database Management System Lab**](Database%20Management%20System%20Lab/) directory.
 
-| # | Experiment Name | Description | Date | Marks | Resource |
-|:-:|:---|:---|:---:|:---:|:-:|
-| 1 | **Introduction to SQL** | DDL & DML Commands (Create, Insert, etc.) | July 14, 2020 | 08/10 | [📄](Database%20Management%20System%20Lab/Experiment-1/Amey_B-50_DBMS_Experiments-1.pdf) |
-| 2 | **Constraints & Functions** | Integrity Constraints & Built-in Functions | July 21, 2020 | 08/10 | [📄](Database%20Management%20System%20Lab/Experiment-2/Amey_B-50_DBMS_Experiments-2.pdf) |
-| 3 | **Joins & Set Operations** | Inner, Outer Joins & Union, Intersect, Minus | July 28, 2020 | 07/10 | [📄](Database%20Management%20System%20Lab/Experiment-3/Amey_B-50_DBMS_Experiments-3.pdf) |
-| 4 | **Views & Subqueries** | Creating Views & Nested Queries | August 04, 2020 | 07/10 | [📄](Database%20Management%20System%20Lab/Experiment-4/Amey_B-50_DBMS_Experiments-4.pdf) |
-| 5 | **DDL and Constraints (Recreated)** | Advanced DDL & Constraints Management | August 14, 2020 | 07/10 | [📄](Database%20Management%20System%20Lab/Experiment-5/Amey_B-50_DBMS_Experiments-5.pdf) |
-| 6 | **DML and TCL (Recreated)** | Data Manipulation & Transaction Control | August 21, 2020 | 08/10 | [📄](Database%20Management%20System%20Lab/Experiment-6/Amey_B-50_DBMS_Experiments-6.pdf) |
-| 7 | **Subqueries (Recreated)** | Single-row & Multi-row Subqueries | August 28, 2020 | 07/10 | [📄](Database%20Management%20System%20Lab/Experiment-7/Amey_B-50_DBMS_Experiments-7.pdf) |
-| 8 | **PL/SQL Procedures** | Stored Procedures Implementation | September 09, 2020 | 08/10 | [📄](Database%20Management%20System%20Lab/Experiment-8/Amey_B-50_DBMS_Experiments-8.pdf) |
-| 9 | **Database Triggers** | Row-Level Triggers (Insert, Update, Delete) | November 24, 2020 | 08/10 | [📄](Database%20Management%20System%20Lab/Experiment-9/Amey_B-50_DBMS_Experiments-9.pdf) |
-| 10 | **PL/SQL Cursors** | Explicit & Implicit Cursors | December 02, 2020 | 07/10 | [📄](Database%20Management%20System%20Lab/Experiment-10/Amey_B-50_DBMS_Experiments-10.pdf) |
+| # | Experiment Name | Description | Date | Marks |
+|:-:|:---|:---|:---:|:---:|
+| 1 | [Introduction to SQL](Database%20Management%20System%20Lab/Experiment-1/Amey_B-50_DBMS_Experiments-1.pdf) | DDL & DML Commands (Create, Insert, etc.) | July 14, 2020 | 08/10 |
+| 2 | [Constraints & Functions](Database%20Management%20System%20Lab/Experiment-2/Amey_B-50_DBMS_Experiments-2.pdf) | Integrity Constraints & Built-in Functions | July 21, 2020 | 08/10 |
+| 3 | [Joins & Set Operations](Database%20Management%20System%20Lab/Experiment-3/Amey_B-50_DBMS_Experiments-3.pdf) | Inner, Outer Joins & Union, Intersect, Minus | July 28, 2020 | 07/10 |
+| 4 | [Views & Subqueries](Database%20Management%20System%20Lab/Experiment-4/Amey_B-50_DBMS_Experiments-4.pdf) | Creating Views & Nested Queries | August 04, 2020 | 07/10 |
+| 5 | [DDL and Constraints (Recreated)](Database%20Management%20System%20Lab/Experiment-5/Amey_B-50_DBMS_Experiments-5.pdf) | Advanced DDL & Constraints Management | August 14, 2020 | 07/10 |
+| 6 | [DML and TCL (Recreated)](Database%20Management%20System%20Lab/Experiment-6/Amey_B-50_DBMS_Experiments-6.pdf) | Data Manipulation & Transaction Control | August 21, 2020 | 08/10 |
+| 7 | [Subqueries (Recreated)](Database%20Management%20System%20Lab/Experiment-7/Amey_B-50_DBMS_Experiments-7.pdf) | Single-row & Multi-row Subqueries | August 28, 2020 | 07/10 |
+| 8 | [PL/SQL Procedures](Database%20Management%20System%20Lab/Experiment-8/Amey_B-50_DBMS_Experiments-8.pdf) | Stored Procedures Implementation | September 09, 2020 | 08/10 |
+| 9 | [Database Triggers](Database%20Management%20System%20Lab/Experiment-9/Amey_B-50_DBMS_Experiments-9.pdf) | Row-Level Triggers (Insert, Update, Delete) | November 24, 2020 | 08/10 |
+| 10 | [PL/SQL Cursors](Database%20Management%20System%20Lab/Experiment-10/Amey_B-50_DBMS_Experiments-10.pdf) | Explicit & Implicit Cursors | December 02, 2020 | 07/10 |
 
 ### Program Details
 
 <details>
-<summary><b>📂 Experiment 1: Introduction to SQL (1 Program)</b></summary>
+<summary><b>Experiment 1: Introduction to SQL (1 Program)</b></summary>
 
 | Program | Category | Description | Code |
 |:---|:---|:---|:-:|
@@ -170,7 +170,7 @@ The laboratory component (CSL503) focuses on hands-on implementation of SQL quer
 </details>
 
 <details>
-<summary><b>📊 Experiment 2: Constraints & Functions (1 Program)</b></summary>
+<summary><b>Experiment 2: Constraints & Functions (1 Program)</b></summary>
 
 | Program | Category | Description | Code |
 |:---|:---|:---|:-:|
@@ -179,7 +179,7 @@ The laboratory component (CSL503) focuses on hands-on implementation of SQL quer
 </details>
 
 <details>
-<summary><b>🔗 Experiment 3: Joins & Set Operations (1 Program)</b></summary>
+<summary><b>Experiment 3: Joins & Set Operations (1 Program)</b></summary>
 
 | Program | Category | Description | Code |
 |:---|:---|:---|:-:|
@@ -188,7 +188,7 @@ The laboratory component (CSL503) focuses on hands-on implementation of SQL quer
 </details>
 
 <details>
-<summary><b>👁️ Experiment 4: Views & Subqueries (1 Program)</b></summary>
+<summary><b>Experiment 4: Views & Subqueries (1 Program)</b></summary>
 
 | Program | Category | Description | Code |
 |:---|:---|:---|:-:|
@@ -197,7 +197,7 @@ The laboratory component (CSL503) focuses on hands-on implementation of SQL quer
 </details>
 
 <details>
-<summary><b>🗃️ Experiment 5: DDL and Constraints (1 Program)</b></summary>
+<summary><b>Experiment 5: DDL and Constraints (1 Program)</b></summary>
 
 | Program | Category | Description | Code |
 |:---|:---|:---|:-:|
@@ -206,7 +206,7 @@ The laboratory component (CSL503) focuses on hands-on implementation of SQL quer
 </details>
 
 <details>
-<summary><b>⚡ Experiment 6: DML and TCL (1 Program)</b></summary>
+<summary><b>Experiment 6: DML and TCL (1 Program)</b></summary>
 
 | Program | Category | Description | Code |
 |:---|:---|:---|:-:|
@@ -215,7 +215,7 @@ The laboratory component (CSL503) focuses on hands-on implementation of SQL quer
 </details>
 
 <details>
-<summary><b>⚠️ Experiment 7: Subqueries (1 Program)</b></summary>
+<summary><b>Experiment 7: Subqueries (1 Program)</b></summary>
 
 | Program | Category | Description | Code |
 |:---|:---|:---|:-:|
@@ -224,7 +224,7 @@ The laboratory component (CSL503) focuses on hands-on implementation of SQL quer
 </details>
 
 <details>
-<summary><b>🔄 Experiment 8: PL/SQL Procedures (1 Program)</b></summary>
+<summary><b>Experiment 8: PL/SQL Procedures (1 Program)</b></summary>
 
 | Program | Category | Description | Code |
 |:---|:---|:---|:-:|
@@ -233,7 +233,7 @@ The laboratory component (CSL503) focuses on hands-on implementation of SQL quer
 </details>
 
 <details>
-<summary><b>🛡️ Experiment 9: Database Triggers (4 Programs)</b></summary>
+<summary><b>Experiment 9: Database Triggers (4 Programs)</b></summary>
 
 | Program | Category | Description | Code |
 |:---|:---|:---|:-:|
@@ -245,7 +245,7 @@ The laboratory component (CSL503) focuses on hands-on implementation of SQL quer
 </details>
 
 <details>
-<summary><b>🔐 Experiment 10: PL/SQL Cursors (2 Programs)</b></summary>
+<summary><b>Experiment 10: PL/SQL Cursors (2 Programs)</b></summary>
 
 | Program | Category | Description | Code |
 |:---|:---|:---|:-:|
@@ -269,7 +269,7 @@ The laboratory component (CSL503) focuses on hands-on implementation of SQL quer
 
 <div align="center">
 
-  ### 🚗 Car Rental Database System
+  ### Car Rental Database System
   
   **A comprehensive database management system for vehicle rentals**
   
@@ -283,7 +283,7 @@ The laboratory component (CSL503) focuses on hands-on implementation of SQL quer
 
 <div align="center">
 
-### 👥 Authors
+### Authors
 | <img src="https://github.com/Amey-Thakur.png" width="150" alt="Amey Thakur"><br>[**Amey Thakur**](https://github.com/Amey-Thakur) |
 | :---: |
 </div>
@@ -297,10 +297,10 @@ This project implements a Car Rental Database Management System using PHP and My
 
 | Resource | Description | Date | Marks |
 |:---|:---|:---:|:---:|
-| 🎮 [Project Repository](https://github.com/Amey-Thakur/CAR-RENTAL-SYSTEM) | Complete source code and documentation | - | - |
-| 📄 [Project Report](Mini%20Project%20Report/B-42%2C45%2C50%2C51_DBMS_Mini_Project.pdf) | Detailed project documentation | November 28, 2020 | 09/10 |
-| 🏆 [Published Paper](https://doi.org/10.22214/ijraset.2021.36339) | IJRASET (Vol 9 Issue 7) Publication | July 2021 | - |
-| 📜 [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Research%20Papers/Car%20Rental%20System/IJRASET36339%20-%20Car%20Rental%20System.pdf) | Publication Certificate | July 2021 | - |
+| [Project Repository](https://github.com/Amey-Thakur/CAR-RENTAL-SYSTEM) | Complete source code and documentation | - | - |
+| [Project Report](Mini%20Project%20Report/B-42%2C45%2C50%2C51_DBMS_Mini_Project.pdf) | Detailed project documentation | November 28, 2020 | 09/10 |
+| [Published Paper](https://doi.org/10.22214/ijraset.2021.36339) | IJRASET (Vol 9 Issue 7) Publication | July 2021 | - |
+| [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Research%20Papers/Car%20Rental%20System/IJRASET36339%20-%20Car%20Rental%20System.pdf) | Publication Certificate | July 2021 | - |
 
 
 
@@ -313,10 +313,10 @@ This project implements a Car Rental Database Management System using PHP and My
 
 DBMS-specific quizzes conducted during the course:
 
-| Quiz | Topics | Date | Marks | Resource |
-|:---|:---|:---:|:---:|:-:|
-| Quiz 1 | Modules 1, 2, 3 | November 30, 2020 | 6/6 | [📄](Quizzes/AMEY_B-50%20DBMS%20Quiz%201%20(co1%2Cco2%2Cco3).pdf) |
-| Quiz 2 | Modules 4, 5, 6 | November 30, 2020 | 6/6 | [📄](Quizzes/AMEY_B-50%20DBMS%20Quiz%202%20(co4%2Cco5%2Cco6).pdf) |
+| Quiz | Topics | Date | Marks |
+|:---|:---|:---:|:---:|
+| [Quiz 1](Quizzes/AMEY_B-50%20DBMS%20Quiz%201%20(co1%2Cco2%2Cco3).pdf) | Modules 1, 2, 3 | November 30, 2020 | 6/6 |
+| [Quiz 2](Quizzes/AMEY_B-50%20DBMS%20Quiz%202%20(co4%2Cco5%2Cco6).pdf) | Modules 4, 5, 6 | November 30, 2020 | 6/6 |
 
 ---
 
@@ -330,12 +330,12 @@ DBMS-specific quizzes conducted during the course:
 
 | Resource | Date | Marks | Description |
 |:---|:---:|:---:|:---|
-| 📊 [DBMS UT-2](Online%20Exam/DBMS%20UT-2.png) | 2020 | — | Unit Test 2 Assessment |
-| 📄 [DBMS Online Test](Online%20Exam/DBMS_Online_Test.pdf) | July 11, 2020 | 10/10 | Subject-specific online test |
-| 📄 [All Subjects Test 1](Online%20Exam/TE_B_Online_Test(All%20Subject)-1.pdf) | July 18, 2020 | 40/40 | Collective subject test 1 |
-| 📄 [All Subjects Test 2](Online%20Exam/TE_B_Online_Test(All%20Subject)-2.pdf) | July 25, 2020 | 50/50 | Collective subject test 2 |
-| 📄 [All Subjects Test 3](Online%20Exam/TE_B_Online_Test(All%20Subject)-3.pdf) | August 03, 2020 | 50/50 | Collective subject test 3 |
-| 📄 [All Subjects Test 4](Online%20Exam/TE_B_Online_Test(All%20Subject)-4.pdf) | August 08, 2020 | 50/50 | Collective subject test 4 |
+| [DBMS UT-2](Online%20Exam/DBMS%20UT-2.png) | 2020 | — | Unit Test 2 Assessment |
+| [DBMS Online Test](Online%20Exam/DBMS_Online_Test.pdf) | July 11, 2020 | 10/10 | Subject-specific online test |
+| [All Subjects Test 1](Online%20Exam/TE_B_Online_Test(All%20Subject)-1.pdf) | July 18, 2020 | 40/40 | Collective subject test 1 |
+| [All Subjects Test 2](Online%20Exam/TE_B_Online_Test(All%20Subject)-2.pdf) | July 25, 2020 | 50/50 | Collective subject test 2 |
+| [All Subjects Test 3](Online%20Exam/TE_B_Online_Test(All%20Subject)-3.pdf) | August 03, 2020 | 50/50 | Collective subject test 3 |
+| [All Subjects Test 4](Online%20Exam/TE_B_Online_Test(All%20Subject)-4.pdf) | August 08, 2020 | 50/50 | Collective subject test 4 |
 
 ---
 
@@ -348,8 +348,8 @@ Final semester examination submission:
 
 | Resource | Description | Date |
 |:---|:---|:---:|
-| 📄 [Answer Sheet Q2](Semester%20Exam/Q.2_DBMS.pdf) | Final Semester Exam Submission (Q.2) | January 09, 2021 |
-| 📄 [Answer Sheet Q3](Semester%20Exam/Q.3_DBMS.pdf) | Final Semester Exam Submission (Q.3) | January 09, 2021 |
+| [Answer Sheet Q2](Semester%20Exam/Q.2_DBMS.pdf) | Final Semester Exam Submission (Q.2) | January 09, 2021 |
+| [Answer Sheet Q3](Semester%20Exam/Q.3_DBMS.pdf) | Final Semester Exam Submission (Q.3) | January 09, 2021 |
 
 ---
 
@@ -360,11 +360,11 @@ Final semester examination submission:
 
 Previous year university question papers:
 
-| Exam Session | Syllabus | Resource |
-|:---|:---:|:-:|
-| December 2018 | CBCGS | [📄](Question%20Papers/TE-Comps_SEM5_DBMS-CBCGS_DEC18.pdf) |
-| May 2019 | CBCGS | [📄](Question%20Papers/TE-Comps_SEM5_DBMS-CBCGS_MAY19.pdf) |
-| December 2019 | CBCGS | [📄](Question%20Papers/TE-Comps_SEM5_DBMS-CBCGS_DEC19.pdf) |
+| # | Exam Session | Syllabus |
+|:-:|:---|:---:|
+| 1 | [December 2018](Question%20Papers/TE-Comps_SEM5_DBMS-CBCGS_DEC18.pdf) | CBCGS |
+| 2 | [May 2019](Question%20Papers/TE-Comps_SEM5_DBMS-CBCGS_MAY19.pdf) | CBCGS |
+| 3 | [December 2019](Question%20Papers/TE-Comps_SEM5_DBMS-CBCGS_DEC19.pdf) | CBCGS |
 
 ---
 
@@ -375,11 +375,11 @@ Previous year university question papers:
 
 Course completion documentation with exit survey:
 
-| Document | Description | Link |
-|:---|:---|:---:|
-| **Submission Report** | Final coursework submission report | [📋 View](Submission%20Report/Amey_B-50_DBMS_Submission_Report.pdf) |
-| **Exit Survey (Theory)** | Course outcome survey for DBMS Theory | [📋 View](Submission%20Report/Amey_B-50_DBMS_Theory_Exit_Survey.pdf) |
-| **Exit Survey (Lab)** | Course outcome survey for DBMS Lab | [📋 View](Submission%20Report/Amey_B-50_DBMS_Lab_Exit_Survey.pdf) |
+| Document | Description |
+|:---|:---|
+| [Submission Report](Submission%20Report/Amey_B-50_DBMS_Submission_Report.pdf) | Final coursework submission report |
+| [Exit Survey (Theory)](Submission%20Report/Amey_B-50_DBMS_Theory_Exit_Survey.pdf) | Course outcome survey for DBMS Theory |
+| [Exit Survey (Lab)](Submission%20Report/Amey_B-50_DBMS_Lab_Exit_Survey.pdf) | Course outcome survey for DBMS Lab |
 
 ---
 
@@ -388,7 +388,7 @@ Course completion documentation with exit survey:
      ========================================================================================= -->
 ## Syllabus
 
-> 📋 **[Official CBCGS Syllabus](Syllabus/TE%20BE%20Comp%20Engg%20CBCGS%20Syllabus.pdf)**  
+> **[Official CBCGS Syllabus](Syllabus/TE%20BE%20Comp%20Engg%20CBCGS%20Syllabus.pdf)**  
 > Complete Third Year Computer Engineering syllabus document from the University of Mumbai, including detailed course outcomes, assessment criteria, and module specifications for DBMS and DBMS Lab.
 
 > [!IMPORTANT]
@@ -456,13 +456,13 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 <div align="center">
 
   <!-- Footer Navigation -->
-  **[⬆ Back to Top](#database-management-system-and-database-management-system-lab)**
+  **[↑ Back to Top](#database-management-system-and-database-management-system-lab)**
 
-  **[📖 Overview](#overview)** &nbsp;·&nbsp; **[📂 Contents](#repository-contents)** &nbsp;·&nbsp; **[📚 Reference Books](#reference-books)** &nbsp;·&nbsp; **[👫🏻 Mega's Notes](#megas-notes)** &nbsp;·&nbsp; **[📄 Assignments](#assignments)** &nbsp;·&nbsp; **[🧪 Laboratory](#database-management-system-laboratory)** &nbsp;·&nbsp; **[🎮 Project](#database-management-system-project)** &nbsp;·&nbsp; **[🧠 Quizzes](#quizzes)** &nbsp;·&nbsp; **[💻 Online Exam](#online-exam)** &nbsp;·&nbsp; **[🎓 Semester Exam](#semester-exam)** &nbsp;·&nbsp; **[📝 Question Papers](#question-papers)** &nbsp;·&nbsp; **[✅ Submission Report](#submission-completion-report)** &nbsp;·&nbsp; **[📋 Syllabus](#syllabus)** &nbsp;·&nbsp; **[📘 Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[📜 License](#license)** &nbsp;·&nbsp; **[ℹ️ About](#about-this-repository)** &nbsp;·&nbsp; **[🙏🏻 Acknowledgments](#acknowledgments)**
+  **[Overview](#overview)** &nbsp;·&nbsp; **[Contents](#repository-contents)** &nbsp;·&nbsp; **[Reference Books](#reference-books)** &nbsp;·&nbsp; **[Mega's Notes](#megas-notes)** &nbsp;·&nbsp; **[Assignments](#assignments)** &nbsp;·&nbsp; **[Laboratory](#database-management-system-laboratory)** &nbsp;·&nbsp; **[Project](#database-management-system-project)** &nbsp;·&nbsp; **[Quizzes](#quizzes)** &nbsp;·&nbsp; **[Online Exam](#online-exam)** &nbsp;·&nbsp; **[Semester Exam](#semester-exam)** &nbsp;·&nbsp; **[Question Papers](#question-papers)** &nbsp;·&nbsp; **[Submission Report](#submission-completion-report)** &nbsp;·&nbsp; **[Syllabus](#syllabus)** &nbsp;·&nbsp; **[Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[License](#license)** &nbsp;·&nbsp; **[About](#about-this-repository)** &nbsp;·&nbsp; **[Acknowledgments](#acknowledgments)**
 
   <br>
 
-  **[🧪 DBMS Lab](Database%20Management%20System%20Lab/)** &nbsp;·&nbsp; **[🚗 Car Rental System](https://github.com/Amey-Thakur/CAR-RENTAL-SYSTEM)**
+  **[DBMS Lab](Database%20Management%20System%20Lab/)** &nbsp;·&nbsp; **[Car Rental System](https://github.com/Amey-Thakur/CAR-RENTAL-SYSTEM)**
 
 </div>
 
@@ -470,10 +470,10 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 
 <div align="center">
 
-  ### 🎓 [Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
+  ### [Database Management System and Database Management System Lab](https://github.com/Amey-Thakur/DATABASE-MANAGEMENT-SYSTEM-AND-DATABASE-MANAGEMENT-SYSTEM-LAB)
 
-  **Computer Engineering (B.E.) - University of Mumbai**
+  **CSC502 & CSL503 · Semester V · Computer Engineering**
 
-  *Semester-wise curriculum, laboratories, projects, and academic notes.*
+  *University of Mumbai · Curated by [Amey Thakur](https://github.com/Amey-Thakur)*
 
 </div>
