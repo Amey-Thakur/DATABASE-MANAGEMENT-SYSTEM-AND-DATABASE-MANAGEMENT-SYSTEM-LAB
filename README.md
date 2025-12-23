@@ -476,12 +476,10 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 
 ---
 
-<div align="center">
-
-  ### [Database Management System and Database Management System Lab](https://github.com/Amey-Thakur/DATABASE-MANAGEMENT-SYSTEM-AND-DATABASE-MANAGEMENT-SYSTEM-LAB)
-
-  **CSC502 & CSL503 · Semester V · Computer Engineering**
-
-  *University of Mumbai · Curated by [Amey Thakur](https://github.com/Amey-Thakur)*
-
+  ### [🎓 Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
+  
+  **Computer Engineering (B.E.) - University of Mumbai**
+  
+  *Semester-wise curriculum, laboratories, projects, and academic notes.*
+  
 </div>
