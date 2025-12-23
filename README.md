@@ -336,14 +336,14 @@ This project implements a Car Rental Database Management System using PHP and My
 > [!IMPORTANT]
 > **COVID-19 Impact**: This coursework was completed during the COVID-19 pandemic. All examinations and assessments were conducted in a digital format.
 
-| # | Resource | Date | Marks | Description |
-|:-:|:---|:---:|:---:|:---|
-| 1 | [DBMS UT-2](Online%20Exam/DBMS%20UT-2.png) | 2020 | — | Unit Test 2 Assessment |
-| 2 | [DBMS Online Test](Online%20Exam/DBMS_Online_Test.pdf) | July 11, 2020 | 10/10 | Subject-specific online test |
-| 3 | [All Subjects Test 1](Online%20Exam/TE_B_Online_Test(All%20Subject)-1.pdf) | July 18, 2020 | 40/40 | Collective subject test 1 |
-| 4 | [All Subjects Test 2](Online%20Exam/TE_B_Online_Test(All%20Subject)-2.pdf) | July 25, 2020 | 50/50 | Collective subject test 2 |
-| 5 | [All Subjects Test 3](Online%20Exam/TE_B_Online_Test(All%20Subject)-3.pdf) | August 03, 2020 | 50/50 | Collective subject test 3 |
-| 6 | [All Subjects Test 4](Online%20Exam/TE_B_Online_Test(All%20Subject)-4.pdf) | August 08, 2020 | 50/50 | Collective subject test 4 |
+| # | Resource | Description | Date | Marks |
+|:-:|:---|:---|:---:|:---:|
+| 1 | [DBMS UT-2](Online%20Exam/DBMS%20UT-2.png) | Unit Test 2 Assessment | 2020 | — |
+| 2 | [DBMS Online Test](Online%20Exam/DBMS_Online_Test.pdf) | Subject-specific online test | July 11, 2020 | 10/10 |
+| 3 | [All Subjects Test 1](Online%20Exam/TE_B_Online_Test(All%20Subject)-1.pdf) | Collective subject test 1 | July 18, 2020 | 40/40 |
+| 4 | [All Subjects Test 2](Online%20Exam/TE_B_Online_Test(All%20Subject)-2.pdf) | Collective subject test 2 | July 25, 2020 | 50/50 |
+| 5 | [All Subjects Test 3](Online%20Exam/TE_B_Online_Test(All%20Subject)-3.pdf) | Collective subject test 3 | August 03, 2020 | 50/50 |
+| 6 | [All Subjects Test 4](Online%20Exam/TE_B_Online_Test(All%20Subject)-4.pdf) | Collective subject test 4 | August 08, 2020 | 50/50 |
 
 ---
 
