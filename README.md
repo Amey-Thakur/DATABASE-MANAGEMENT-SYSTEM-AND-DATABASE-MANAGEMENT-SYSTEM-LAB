@@ -256,9 +256,9 @@ The laboratory component (CSL503) focuses on hands-on implementation of SQL quer
 
 ### Laboratory Documentation
 
-| Resource | Description |
-|:---|:---|
-| 📖 [Lab README](Database%20Management%20System%20Lab/README.md) | Detailed navigation guide with program descriptions |
+| # | Documentation | Description |
+|:-:|:---|:---|
+| 1 | [Lab README](Database%20Management%20System%20Lab/README.md) | Detailed navigation guide with program descriptions |
 
 ---
 
@@ -297,10 +297,10 @@ This project implements a Car Rental Database Management System using PHP and My
 
 | Project | Description | Date | Marks | Report |
 |:---|:---|:---:|:---:|:---:|
-| [Car Rental System](https://github.com/Amey-Thakur/CAR-RENTAL-SYSTEM) | Complete source code and documentation | - | - | [View](https://github.com/Amey-Thakur/CAR-RENTAL-SYSTEM) |
-| [Project Report](Mini%20Project%20Report) | Detailed project documentation | November 28, 2020 | 09/10 | [View](Mini%20Project%20Report/B-42%2C45%2C50%2C51_DBMS_Mini_Project.pdf) |
-| [Published Paper](https://doi.org/10.22214/ijraset.2021.36339) | IJRASET (Vol 9 Issue 7) Publication | July 2021 | - | [View](https://doi.org/10.22214/ijraset.2021.36339) |
-| [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Research%20Papers/Car%20Rental%20System/IJRASET36339%20-%20Car%20Rental%20System.pdf) | Publication Certificate | July 2021 | - | [View](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Research%20Papers/Car%20Rental%20System/IJRASET36339%20-%20Car%20Rental%20System.pdf) |
+| Car Rental System | Complete source code and documentation | - | - | [View](https://github.com/Amey-Thakur/CAR-RENTAL-SYSTEM) |
+| Project Report | Detailed project documentation | November 28, 2020 | 09/10 | [View](Mini%20Project%20Report/B-42%2C45%2C50%2C51_DBMS_Mini_Project.pdf) |
+| Published Paper | IJRASET (Vol 9 Issue 7) Publication | July 2021 | - | [View](https://doi.org/10.22214/ijraset.2021.36339) |
+| Certificate | Publication Certificate | July 2021 | - | [View](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Research%20Papers/Car%20Rental%20System/IJRASET36339%20-%20Car%20Rental%20System.pdf) |
 
 
 
