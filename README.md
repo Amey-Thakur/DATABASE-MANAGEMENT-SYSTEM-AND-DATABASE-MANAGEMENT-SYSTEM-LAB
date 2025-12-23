@@ -269,7 +269,7 @@ The laboratory component (CSL503) focuses on hands-on implementation of SQL quer
 
 <div align="center">
 
-  ### Car Rental Database System
+  ### [🚗 Car Rental Database System](https://github.com/Amey-Thakur/CAR-RENTAL-SYSTEM)
   
   **A comprehensive database management system for vehicle rentals**
   
@@ -283,7 +283,7 @@ The laboratory component (CSL503) focuses on hands-on implementation of SQL quer
 
 <div align="center">
 
-### Authors
+### 👥 Authors
 | <img src="https://github.com/Amey-Thakur.png" width="150" alt="Amey Thakur"><br>[**Amey Thakur**](https://github.com/Amey-Thakur) |
 | :---: |
 </div>
