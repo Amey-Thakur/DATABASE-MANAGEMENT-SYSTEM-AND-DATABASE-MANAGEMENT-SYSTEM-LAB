@@ -336,14 +336,14 @@ This project implements a Car Rental Database Management System using PHP and My
 > [!IMPORTANT]
 > **COVID-19 Impact**: This coursework was completed during the COVID-19 pandemic. All examinations and assessments were conducted in a digital format.
 
-| Resource | Date | Marks | Description |
-|:---|:---:|:---:|:---|
-| [DBMS UT-2](Online%20Exam/DBMS%20UT-2.png) | 2020 | — | Unit Test 2 Assessment |
-| [DBMS Online Test](Online%20Exam/DBMS_Online_Test.pdf) | July 11, 2020 | 10/10 | Subject-specific online test |
-| [All Subjects Test 1](Online%20Exam/TE_B_Online_Test(All%20Subject)-1.pdf) | July 18, 2020 | 40/40 | Collective subject test 1 |
-| [All Subjects Test 2](Online%20Exam/TE_B_Online_Test(All%20Subject)-2.pdf) | July 25, 2020 | 50/50 | Collective subject test 2 |
-| [All Subjects Test 3](Online%20Exam/TE_B_Online_Test(All%20Subject)-3.pdf) | August 03, 2020 | 50/50 | Collective subject test 3 |
-| [All Subjects Test 4](Online%20Exam/TE_B_Online_Test(All%20Subject)-4.pdf) | August 08, 2020 | 50/50 | Collective subject test 4 |
+| # | Resource | Date | Marks | Description |
+|:-:|:---|:---:|:---:|:---|
+| 1 | [DBMS UT-2](Online%20Exam/DBMS%20UT-2.png) | 2020 | — | Unit Test 2 Assessment |
+| 2 | [DBMS Online Test](Online%20Exam/DBMS_Online_Test.pdf) | July 11, 2020 | 10/10 | Subject-specific online test |
+| 3 | [All Subjects Test 1](Online%20Exam/TE_B_Online_Test(All%20Subject)-1.pdf) | July 18, 2020 | 40/40 | Collective subject test 1 |
+| 4 | [All Subjects Test 2](Online%20Exam/TE_B_Online_Test(All%20Subject)-2.pdf) | July 25, 2020 | 50/50 | Collective subject test 2 |
+| 5 | [All Subjects Test 3](Online%20Exam/TE_B_Online_Test(All%20Subject)-3.pdf) | August 03, 2020 | 50/50 | Collective subject test 3 |
+| 6 | [All Subjects Test 4](Online%20Exam/TE_B_Online_Test(All%20Subject)-4.pdf) | August 08, 2020 | 50/50 | Collective subject test 4 |
 
 ---
 
@@ -354,10 +354,10 @@ This project implements a Car Rental Database Management System using PHP and My
 
 Final semester examination submission:
 
-| Resource | Description | Date |
-|:---|:---|:---:|
-| [Answer Sheet Q2](Semester%20Exam/Q.2_DBMS.pdf) | Final Semester Exam Submission (Q.2) | January 09, 2021 |
-| [Answer Sheet Q3](Semester%20Exam/Q.3_DBMS.pdf) | Final Semester Exam Submission (Q.3) | January 09, 2021 |
+| # | Resource | Description | Date |
+|:-:|:---|:---|:---:|
+| 1 | [Answer Sheet Q2](Semester%20Exam/Q.2_DBMS.pdf) | Final Semester Exam Submission (Q.2) | January 09, 2021 |
+| 2 | [Answer Sheet Q3](Semester%20Exam/Q.3_DBMS.pdf) | Final Semester Exam Submission (Q.3) | January 09, 2021 |
 
 ---
 
