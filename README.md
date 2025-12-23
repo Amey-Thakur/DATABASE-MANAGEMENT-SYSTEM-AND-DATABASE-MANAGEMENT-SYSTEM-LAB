@@ -293,7 +293,7 @@ The laboratory component (CSL503) focuses on hands-on implementation of SQL quer
 
 This project implements a Car Rental Database Management System using PHP and MySQL, showcasing principles of database design, normalization, and SQL query integration in a web-based application.
 
-### 🔗 Resources
+### Resources
 
 | Project | Description | Date | Marks | Report |
 |:---|:---|:---:|:---:|:---:|
