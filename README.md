@@ -295,12 +295,12 @@ This project implements a Car Rental Database Management System using PHP and My
 
 ### 🔗 Resources
 
-| Resource | Description | Date | Marks |
-|:---|:---|:---:|:---:|
-| [Project Repository](https://github.com/Amey-Thakur/CAR-RENTAL-SYSTEM) | Complete source code and documentation | - | - |
-| [Project Report](Mini%20Project%20Report/B-42%2C45%2C50%2C51_DBMS_Mini_Project.pdf) | Detailed project documentation | November 28, 2020 | 09/10 |
-| [Published Paper](https://doi.org/10.22214/ijraset.2021.36339) | IJRASET (Vol 9 Issue 7) Publication | July 2021 | - |
-| [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Research%20Papers/Car%20Rental%20System/IJRASET36339%20-%20Car%20Rental%20System.pdf) | Publication Certificate | July 2021 | - |
+| Project | Description | Date | Marks | Report |
+|:---|:---|:---:|:---:|:---:|
+| [Car Rental System](https://github.com/Amey-Thakur/CAR-RENTAL-SYSTEM) | Complete source code and documentation | - | - | [View](https://github.com/Amey-Thakur/CAR-RENTAL-SYSTEM) |
+| [Project Report](Mini%20Project%20Report) | Detailed project documentation | November 28, 2020 | 09/10 | [View](Mini%20Project%20Report/B-42%2C45%2C50%2C51_DBMS_Mini_Project.pdf) |
+| [Published Paper](https://doi.org/10.22214/ijraset.2021.36339) | IJRASET (Vol 9 Issue 7) Publication | July 2021 | - | [View](https://doi.org/10.22214/ijraset.2021.36339) |
+| [Certificate](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Research%20Papers/Car%20Rental%20System/IJRASET36339%20-%20Car%20Rental%20System.pdf) | Publication Certificate | July 2021 | - | [View](https://github.com/Amey-Thakur/ACHIEVEMENTS/blob/main/Research%20Papers/Car%20Rental%20System/IJRASET36339%20-%20Car%20Rental%20System.pdf) |
 
 
 
