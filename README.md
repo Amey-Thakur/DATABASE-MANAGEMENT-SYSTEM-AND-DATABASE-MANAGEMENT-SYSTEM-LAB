@@ -147,16 +147,16 @@ The laboratory component (CSL503) focuses on hands-on implementation of SQL quer
 
 | # | Experiment Name | Description | Date | Marks | Report |
 |:-:|:---|:---|:---:|:---:|:-:|
-| 1 | [Introduction to SQL](Database%20Management%20System%20Lab/Experiment-1) | DDL & DML Commands (Create, Insert, etc.) | July 14, 2020 | 08/10 | [View](Database%20Management%20System%20Lab/Experiment-1/Amey_B-50_DBMS_Experiments-1.pdf) |
-| 2 | [Constraints & Functions](Database%20Management%20System%20Lab/Experiment-2) | Integrity Constraints & Built-in Functions | July 21, 2020 | 08/10 | [View](Database%20Management%20System%20Lab/Experiment-2/Amey_B-50_DBMS_Experiments-2.pdf) |
-| 3 | [Joins & Set Operations](Database%20Management%20System%20Lab/Experiment-3) | Inner, Outer Joins & Union, Intersect, Minus | July 28, 2020 | 07/10 | [View](Database%20Management%20System%20Lab/Experiment-3/Amey_B-50_DBMS_Experiments-3.pdf) |
-| 4 | [Views & Subqueries](Database%20Management%20System%20Lab/Experiment-4) | Creating Views & Nested Queries | August 04, 2020 | 07/10 | [View](Database%20Management%20System%20Lab/Experiment-4/Amey_B-50_DBMS_Experiments-4.pdf) |
-| 5 | [DDL and Constraints (Recreated)](Database%20Management%20System%20Lab/Experiment-5) | Advanced DDL & Constraints Management | August 14, 2020 | 07/10 | [View](Database%20Management%20System%20Lab/Experiment-5/Amey_B-50_DBMS_Experiments-5.pdf) |
-| 6 | [DML and TCL (Recreated)](Database%20Management%20System%20Lab/Experiment-6) | Data Manipulation & Transaction Control | August 21, 2020 | 08/10 | [View](Database%20Management%20System%20Lab/Experiment-6/Amey_B-50_DBMS_Experiments-6.pdf) |
-| 7 | [Subqueries (Recreated)](Database%20Management%20System%20Lab/Experiment-7) | Single-row & Multi-row Subqueries | August 28, 2020 | 07/10 | [View](Database%20Management%20System%20Lab/Experiment-7/Amey_B-50_DBMS_Experiments-7.pdf) |
-| 8 | [PL/SQL Procedures](Database%20Management%20System%20Lab/Experiment-8) | Stored Procedures Implementation | September 09, 2020 | 08/10 | [View](Database%20Management%20System%20Lab/Experiment-8/Amey_B-50_DBMS_Experiments-8.pdf) |
-| 9 | [Database Triggers](Database%20Management%20System%20Lab/Experiment-9) | Row-Level Triggers (Insert, Update, Delete) | November 24, 2020 | 08/10 | [View](Database%20Management%20System%20Lab/Experiment-9/Amey_B-50_DBMS_Experiments-9.pdf) |
-| 10 | [PL/SQL Cursors](Database%20Management%20System%20Lab/Experiment-10) | Explicit & Implicit Cursors | December 02, 2020 | 07/10 | [View](Database%20Management%20System%20Lab/Experiment-10/Amey_B-50_DBMS_Experiments-10.pdf) |
+| 1 | Introduction to SQL | DDL & DML Commands (Create, Insert, etc.) | July 14, 2020 | 08/10 | [View](Database%20Management%20System%20Lab/Experiment-1/Amey_B-50_DBMS_Experiments-1.pdf) |
+| 2 | Constraints & Functions | Integrity Constraints & Built-in Functions | July 21, 2020 | 08/10 | [View](Database%20Management%20System%20Lab/Experiment-2/Amey_B-50_DBMS_Experiments-2.pdf) |
+| 3 | Joins & Set Operations | Inner, Outer Joins & Union, Intersect, Minus | July 28, 2020 | 07/10 | [View](Database%20Management%20System%20Lab/Experiment-3/Amey_B-50_DBMS_Experiments-3.pdf) |
+| 4 | Views & Subqueries | Creating Views & Nested Queries | August 04, 2020 | 07/10 | [View](Database%20Management%20System%20Lab/Experiment-4/Amey_B-50_DBMS_Experiments-4.pdf) |
+| 5 | DDL and Constraints (Recreated) | Advanced DDL & Constraints Management | August 14, 2020 | 07/10 | [View](Database%20Management%20System%20Lab/Experiment-5/Amey_B-50_DBMS_Experiments-5.pdf) |
+| 6 | DML and TCL (Recreated) | Data Manipulation & Transaction Control | August 21, 2020 | 08/10 | [View](Database%20Management%20System%20Lab/Experiment-6/Amey_B-50_DBMS_Experiments-6.pdf) |
+| 7 | Subqueries (Recreated) | Single-row & Multi-row Subqueries | August 28, 2020 | 07/10 | [View](Database%20Management%20System%20Lab/Experiment-7/Amey_B-50_DBMS_Experiments-7.pdf) |
+| 8 | PL/SQL Procedures | Stored Procedures Implementation | September 09, 2020 | 08/10 | [View](Database%20Management%20System%20Lab/Experiment-8/Amey_B-50_DBMS_Experiments-8.pdf) |
+| 9 | Database Triggers | Row-Level Triggers (Insert, Update, Delete) | November 24, 2020 | 08/10 | [View](Database%20Management%20System%20Lab/Experiment-9/Amey_B-50_DBMS_Experiments-9.pdf) |
+| 10 | PL/SQL Cursors | Explicit & Implicit Cursors | December 02, 2020 | 07/10 | [View](Database%20Management%20System%20Lab/Experiment-10/Amey_B-50_DBMS_Experiments-10.pdf) |
 
 ### Program Details
 
