@@ -15,7 +15,7 @@
 
   ---
 
-  **[Experiment 1](#experiment-1-introduction-to-sql-ddl--dml-commands)** &nbsp;·&nbsp; **[Experiment 2](#experiment-2-constraints--built-in-functions)** &nbsp;·&nbsp; **[Experiment 3](#experiment-3-joins--set-operations)** &nbsp;·&nbsp; **[Experiment 4](#experiment-4-views--subqueries)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-ddl-and-constraints-recreated)** &nbsp;·&nbsp; **[Experiment 6](#experiment-6-dml-and-tcl-commands-recreated)** &nbsp;·&nbsp; **[Experiment 7](#experiment-7-subqueries-recreated)** &nbsp;·&nbsp; **[Experiment 8](#experiment-8-plsql-procedures-recreated)** &nbsp;·&nbsp; **[Experiment 9](#experiment-9-database-triggers)** &nbsp;·&nbsp; **[Experiment 10](#experiment-10-plsql-cursors)** &nbsp;·&nbsp; **[How to Use](#how-to-use)** &nbsp;·&nbsp; **[Learning Path](#learning-path)**
+  **[How to Use](#how-to-use)** &nbsp;·&nbsp; **[Learning Path](#learning-path)** &nbsp;·&nbsp; **[Experiment 1](#experiment-1-introduction-to-sql-ddl--dml-commands)** &nbsp;·&nbsp; **[Experiment 2](#experiment-2-constraints--built-in-functions)** &nbsp;·&nbsp; **[Experiment 3](#experiment-3-joins--set-operations)** &nbsp;·&nbsp; **[Experiment 4](#experiment-4-views--subqueries)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-ddl-and-constraints-recreated)** &nbsp;·&nbsp; **[Experiment 6](#experiment-6-dml-and-tcl-commands-recreated)** &nbsp;·&nbsp; **[Experiment 7](#experiment-7-subqueries-recreated)** &nbsp;·&nbsp; **[Experiment 8](#experiment-8-plsql-procedures-recreated)** &nbsp;·&nbsp; **[Experiment 9](#experiment-9-database-triggers)** &nbsp;·&nbsp; **[Experiment 10](#experiment-10-plsql-cursors)**
 
 </div>
 
@@ -213,7 +213,7 @@ Handling row-by-row processing using Explicit and Implicit Cursors.
   <!-- Footer Navigation -->
   **[↑ Back to Top](#database-management-system-lab)**
 
-  **[Experiment 1](#experiment-1-introduction-to-sql-ddl--dml-commands)** &nbsp;·&nbsp; **[Experiment 2](#experiment-2-constraints--built-in-functions)** &nbsp;·&nbsp; **[Experiment 3](#experiment-3-joins--set-operations)** &nbsp;·&nbsp; **[Experiment 4](#experiment-4-views--subqueries)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-ddl-and-constraints-recreated)** &nbsp;·&nbsp; **[Experiment 6](#experiment-6-dml-and-tcl-commands-recreated)** &nbsp;·&nbsp; **[Experiment 7](#experiment-7-subqueries-recreated)** &nbsp;·&nbsp; **[Experiment 8](#experiment-8-plsql-procedures-recreated)** &nbsp;·&nbsp; **[Experiment 9](#experiment-9-database-triggers)** &nbsp;·&nbsp; **[Experiment 10](#experiment-10-plsql-cursors)** &nbsp;·&nbsp; **[How to Use](#how-to-use)** &nbsp;·&nbsp; **[Learning Path](#learning-path)**
+  **[How to Use](#how-to-use)** &nbsp;·&nbsp; **[Learning Path](#learning-path)** &nbsp;·&nbsp; **[Experiment 1](#experiment-1-introduction-to-sql-ddl--dml-commands)** &nbsp;·&nbsp; **[Experiment 2](#experiment-2-constraints--built-in-functions)** &nbsp;·&nbsp; **[Experiment 3](#experiment-3-joins--set-operations)** &nbsp;·&nbsp; **[Experiment 4](#experiment-4-views--subqueries)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-ddl-and-constraints-recreated)** &nbsp;·&nbsp; **[Experiment 6](#experiment-6-dml-and-tcl-commands-recreated)** &nbsp;·&nbsp; **[Experiment 7](#experiment-7-subqueries-recreated)** &nbsp;·&nbsp; **[Experiment 8](#experiment-8-plsql-procedures-recreated)** &nbsp;·&nbsp; **[Experiment 9](#experiment-9-database-triggers)** &nbsp;·&nbsp; **[Experiment 10](#experiment-10-plsql-cursors)**
 
   <br>
 
