@@ -470,7 +470,7 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 
   <br>
 
-  **[🔬 Database Management System Laboratory](Database%20Management%20System%20Lab/)** &nbsp;·&nbsp; 🚗 **[Car Rental System](https://github.com/Amey-Thakur/CAR-RENTAL-SYSTEM)**
+  🔬 **[Database Management System Laboratory](Database%20Management%20System%20Lab/)** &nbsp;·&nbsp; 🚗 **[Car Rental System](https://github.com/Amey-Thakur/CAR-RENTAL-SYSTEM)**
 
 </div>
 
