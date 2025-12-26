@@ -5,7 +5,7 @@
 
   <img src="https://raw.githubusercontent.com/Amey-Thakur/COMPUTER-ENGINEERING/main/university-of-mumbai-logo.png" alt="University of Mumbai" width="200"/>
 
-  # Database Management System and Database Management System Lab
+  # Database Management System and Database Management System Laboratory
 
   ### CSC502 & CSL503 · Semester V · Computer Engineering
 
@@ -14,7 +14,7 @@
   [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-orange.svg)](https://ternaengg.ac.in/)
   [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
 
-  **A comprehensive academic resource for Database Management System (DBMS) and DBMS Laboratory (DBMS Lab), covering database models, SQL queries, normalization, transaction management, and practical implementations.**
+  **A comprehensive academic resource for Database Management System (DBMS) and Database Management System Laboratory (DBMS Lab), covering database models, SQL queries, normalization, transaction management, and practical implementations.**
 
   ---
 
@@ -29,7 +29,7 @@
      ========================================================================================= -->
 ## Overview
 
-Database Management System (CSC502) and DBMS Lab (CSL503) are core subjects in the Third Year (Semester V) of the Computer Engineering curriculum at the University of Mumbai. These courses provide foundational knowledge of relational database systems, SQL programming, database design, and management.
+Database Management System (CSC502) and Database Management System Laboratory (CSL503) are core subjects in the Third Year (Semester V) of the Computer Engineering curriculum at the University of Mumbai. These courses provide foundational knowledge of relational database systems, SQL programming, database design, and management.
 
 ### Course Topics
 
@@ -52,7 +52,7 @@ As a computer engineer, understanding data management is crucial for backend dev
 
 - **Knowledge Preservation**: To maintain organized access to comprehensive study materials beyond the classroom.
 - **Continuous Learning**: To support lifelong learning by enabling easy revisitation of fundamental database concepts.
-- **Academic Documentation**: To authentically document my learning journey through Database Management System and Database Management System Lab.
+- **Academic Documentation**: To authentically document my learning journey through Database Management System and Database Management System Laboratory.
 - **Community Contribution**: To share these resources with students and learners who may benefit from them.
 
 All materials in this repository were gathered, organized, and documented by me during my undergraduate studies (2018-2022) as part of my coursework and exam preparation.
@@ -387,7 +387,7 @@ Course completion documentation with exit survey:
 |:-:|:---|:---|
 | 1 | [Submission Report](Submission%20Report/Amey_B-50_DBMS_Submission_Report.pdf) | Final coursework submission report |
 | 2 | [Exit Survey (Theory)](Submission%20Report/Amey_B-50_DBMS_Theory_Exit_Survey.pdf) | Course outcome survey for DBMS Theory |
-| 3 | [Exit Survey (Lab)](Submission%20Report/Amey_B-50_DBMS_Lab_Exit_Survey.pdf) | Course outcome survey for DBMS Lab |
+| 3 | [Exit Survey (Lab)](Submission%20Report/Amey_B-50_DBMS_Lab_Exit_Survey.pdf) | Course outcome survey for Database Management System Laboratory |
 
 ---
 
@@ -397,7 +397,7 @@ Course completion documentation with exit survey:
 ## Syllabus
 
 > [**Official CBCGS Syllabus**](Syllabus/TE%20BE%20Comp%20Engg%20CBCGS%20Syllabus.pdf)  
-> Complete Third Year Computer Engineering syllabus document from the University of Mumbai, including detailed course outcomes, assessment criteria, and module specifications for Database Management System and Database Management System Lab.
+> Complete Third Year Computer Engineering syllabus document from the University of Mumbai, including detailed course outcomes, assessment criteria, and module specifications for Database Management System and Database Management System Laboratory.
 
 > [!IMPORTANT]
 > Always verify the latest syllabus details with the official University of Mumbai website, as curriculum updates may occur after this repository's archival date.
@@ -444,7 +444,7 @@ This repository and all linked academic content are made available under the **C
 **Institution**: [Terna Engineering College](https://ternaengg.ac.in/), Navi Mumbai  
 **University**: [University of Mumbai](https://mu.ac.in/)
 
-This repository represents a comprehensive collection of study materials, reference books, assignments, and personal preparation notes curated during my academic journey. All content has been carefully organized and documented to serve as a valuable resource for students pursuing Database Management System & Database Management System Lab.
+This repository represents a comprehensive collection of study materials, reference books, assignments, and personal preparation notes curated during my academic journey. All content has been carefully organized and documented to serve as a valuable resource for students pursuing Database Management System & Database Management System Laboratory.
 
 **Connect**: [GitHub](https://github.com/Amey-Thakur) · [LinkedIn](https://www.linkedin.com/in/amey-thakur)
 
@@ -470,7 +470,7 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 
   <br>
 
-  **[DBMS Lab](Database%20Management%20System%20Lab/)** &nbsp;·&nbsp; **[Car Rental System](https://github.com/Amey-Thakur/CAR-RENTAL-SYSTEM)**
+  **[Database Management System Laboratory](Database%20Management%20System%20Lab/)** &nbsp;·&nbsp; **[Car Rental System](https://github.com/Amey-Thakur/CAR-RENTAL-SYSTEM)**
 
 </div>
 
