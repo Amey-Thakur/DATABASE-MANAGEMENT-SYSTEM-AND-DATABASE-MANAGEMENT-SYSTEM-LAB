@@ -252,7 +252,7 @@ Handling row-by-row processing using Explicit and Implicit Cursors.
 
   <br>
 
-  **[🏠 Back to Main Repository](../)**
+  🏠 **[Back to Main Repository](../)**
 
 </div>
 
