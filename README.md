@@ -33,7 +33,7 @@ Database Management System (CSC502) and Database Management System Laboratory (C
 
 ### Course Topics
 
-The curriculum encompasses several key domains in DBMS:
+The curriculum encompasses several key domains in Database Management System:
 
 - **Entity-Relationship Modeling**: Conceptual design, ER diagrams, weak and strong entities.
 - **Relational Model**: Relational algebra, tuple calculus, domain calculus.
