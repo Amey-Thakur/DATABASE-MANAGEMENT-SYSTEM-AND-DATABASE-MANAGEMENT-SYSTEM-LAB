@@ -1,0 +1,43 @@
+# ALL REPOSITORIES
+# ----------------
+# General
+.DS_Store
+Thumbs.db
+*.swp
+*.log
+*.tmp
+*.bak
+*~
+
+# Windows
+desktop.ini
+$RECYCLE.BIN/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# JetBrains
+.idea/
+*.iml
+
+# DBMS Artifacts
+*.db
+*.sqlite
+*.sqlite3
+*.mdb
+*.ldb
+*.frm
+*.ibd
+*.myi
+*.myd
+*.log
+*.err
+*.pid
+
+# Java (if JDBC used)
+*.class
+*.jar
+
+# Git
+*.orig
