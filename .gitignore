@@ -1,27 +1,24 @@
-# ALL REPOSITORIES
-# ----------------
-# General
+# Database Management System - Academic Repository
+# Specialized .gitignore for database systems and scholarly archiving
+
+# OS-generated files
+[Tt]humbs.db
+[Dd]esktop.ini
 .DS_Store
-Thumbs.db
-*.swp
-*.log
-*.tmp
-*.bak
-*~
+.AppleDouble
+.LSOverride
 
-# Windows
-desktop.ini
-$RECYCLE.BIN/
-
-# VS Code
+# Editor and IDE configuration
 .vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.iml
 *.code-workspace
 
-# JetBrains
-.idea/
-*.iml
-
-# DBMS Artifacts
+# DBMS Artifacts (Binary logs, lock files, temp DBs)
+# Keep .sql source files, ignore engine-specific binaries
 *.db
 *.sqlite
 *.sqlite3
@@ -31,13 +28,29 @@ $RECYCLE.BIN/
 *.ibd
 *.myi
 *.myd
-*.log
-*.err
 *.pid
 
-# Java (if JDBC used)
+# Java Build Artifacts (JDBC)
 *.class
 *.jar
+*.war
+*.ear
 
-# Git
+# Python Build Artifacts
+__pycache__/
+*.py[cod]
+venv/
+env/
+.env
+
+# Temporary and Cache files
+*.tmp
+*.log
+.cache/
+node_modules/
+
+# Academic build/output artifacts
+*.bak
+*.sav
+*.old
 *.orig
