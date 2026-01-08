@@ -88,7 +88,7 @@ This collection includes **comprehensive reference materials** covering all majo
 
 <div align="center">
 
-| <img src="https://github.com/Amey-Thakur/DATABASE-MANAGEMENT-SYSTEM-AND-DATABASE-MANAGEMENT-SYSTEM-LAB/blob/main/MEGA%20NOTES/Mega/Mega.png?raw=true" width="150" alt="Mega Satish"><br>[**Mega Satish**](https://github.com/msatmod)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1844--9557-a6ce39?logo=orcid)](https://orcid.org/0000-0002-1844-9557) |
+| <img src="https://github.com/Amey-Thakur/DATABASE-MANAGEMENT-SYSTEM-AND-DATABASE-MANAGEMENT-SYSTEM-LAB/blob/main/MEGA%20NOTES/Mega/Mega.png?raw=true" width="150" alt="Mega Satish"><br>[**Mega Satish**](https://github.com/msatmod)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1844--9557-A6CE39.svg)](https://orcid.org/0000-0002-1844-9557) |
 | :---: |
 
 </div>
@@ -293,7 +293,7 @@ The laboratory component (CSL503) focuses on hands-on implementation of SQL quer
 <div align="center">
 
 ### Author
-| <img src="https://github.com/Amey-Thakur.png" width="150" alt="Amey Thakur"><br>[**Amey Thakur**](https://github.com/Amey-Thakur)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5644--1575-a6ce39?logo=orcid)](https://orcid.org/0000-0001-5644-1575) |
+| <img src="https://github.com/Amey-Thakur.png" width="150" alt="Amey Thakur"><br>[**Amey Thakur**](https://github.com/Amey-Thakur)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5644--1575-A6CE39.svg)](https://orcid.org/0000-0001-5644-1575) |
 | :---: |
 </div>
 
