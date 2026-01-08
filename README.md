@@ -93,10 +93,9 @@ This collection includes **comprehensive reference materials** covering all majo
 <b>Mega Satish</b>
 </a>
 
-</div>
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1844--9557-a6ce39?logo=orcid)](https://orcid.org/0000-0002-1844-9557)
 
-> [!IMPORTANT]
-> 💝 **Special Thanks**: A heartfelt thank you to Mega for her constant support, patience, and clarity throughout this journey. Learning alongside her made a real difference, not only because she explained concepts so clearly, but because she truly cared about understanding them together. Her thoughtful approach to teaching, openness to discussion, and steady encouragement turned challenges into meaningful learning moments. This work reflects the growth that came from learning side by side. Thank you, Mega, for everything you shared and taught along the way.
+</div>
 
 **Comprehensive module-wise notes curated by Mega Satish:**
 
@@ -109,7 +108,7 @@ This collection includes **comprehensive reference materials** covering all majo
 | 5 | [DBMS Module - 5](MEGA%20NOTES/Module5_DBMS.pdf) | Transaction Management, ACID Properties, Concurrency Control |
 | 6 | [DBMS Module - 6](MEGA%20NOTES/Module6_DBMS.pdf) | Query Processing, Optimization, and Evaluation Techniques |
 
-> [!NOTE]
+> [!IMPORTANT]
 > **COVID-19 Impact**: This coursework was completed during the COVID-19 pandemic. While this section contains the **complete set** of comprehensive notes curated by Mega Satish, the signature "The Wall" collaborative study sessions (typically documented with photos) could not be conducted due to the nationwide lockdown. This section therefore focuses solely on the digitized study materials, as movement restrictions prevented the in-person collaboration required for "The Wall" sessions.
 
 ---
