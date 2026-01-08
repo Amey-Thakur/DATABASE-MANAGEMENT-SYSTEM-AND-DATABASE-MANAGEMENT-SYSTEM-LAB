@@ -293,7 +293,7 @@ The laboratory component (CSL503) focuses on hands-on implementation of SQL quer
 <div align="center">
 
 ### Author
-| <img src="https://github.com/Amey-Thakur.png" width="150" alt="Amey Thakur"><br>[**Amey Thakur**](https://github.com/Amey-Thakur) |
+| <img src="https://github.com/Amey-Thakur.png" width="150" alt="Amey Thakur"><br>[**Amey Thakur**](https://github.com/Amey-Thakur)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5644--1575-a6ce39?logo=orcid)](https://orcid.org/0000-0001-5644-1575) |
 | :---: |
 </div>
 
