@@ -93,6 +93,8 @@ This collection includes **comprehensive reference materials** covering all majo
 <b>Mega Satish</b>
 </a>
 
+<br>
+
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1844--9557-a6ce39?logo=orcid)](https://orcid.org/0000-0002-1844-9557)
 
 </div>
