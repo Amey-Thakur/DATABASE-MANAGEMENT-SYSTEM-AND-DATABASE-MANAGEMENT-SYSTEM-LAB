@@ -88,14 +88,8 @@ This collection includes **comprehensive reference materials** covering all majo
 
 <div align="center">
 
-<a href="https://github.com/msatmod">
-<img src="https://github.com/Amey-Thakur/DATABASE-MANAGEMENT-SYSTEM-AND-DATABASE-MANAGEMENT-SYSTEM-LAB/blob/main/MEGA%20NOTES/Mega/Mega.png?raw=true" alt="Mega Satish" width="150" height="150"/><br/>
-<b>Mega Satish</b>
-</a>
-
-<br>
-
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1844--9557-a6ce39?logo=orcid)](https://orcid.org/0000-0002-1844-9557)
+| <img src="https://github.com/Amey-Thakur/DATABASE-MANAGEMENT-SYSTEM-AND-DATABASE-MANAGEMENT-SYSTEM-LAB/blob/main/MEGA%20NOTES/Mega/Mega.png?raw=true" width="150" alt="Mega Satish"><br>[**Mega Satish**](https://github.com/msatmod)<br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1844--9557-a6ce39?logo=orcid)](https://orcid.org/0000-0002-1844-9557) |
+| :---: |
 
 </div>
 
