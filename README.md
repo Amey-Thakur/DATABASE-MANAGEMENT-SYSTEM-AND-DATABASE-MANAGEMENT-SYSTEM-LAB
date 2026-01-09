@@ -311,7 +311,7 @@ This mini-project implements a Car Rental Database Management System using PHP a
 
 ### Resources
 
-| # | Project | Description | Date | Marks |
+| # | Resource | Description | Date | Marks |
 |:-:|:---|:---|:---:|:---:|
 | 1 | [Car Rental System](https://github.com/Amey-Thakur/CAR-RENTAL-SYSTEM) | Complete source code and documentation | - | - |
 | 2 | [Project Report](Mini%20Project%20Report/B-42%2C45%2C50%2C51_DBMS_Mini_Project.pdf) | Detailed project documentation | November 28, 2020 | 09/10 |
