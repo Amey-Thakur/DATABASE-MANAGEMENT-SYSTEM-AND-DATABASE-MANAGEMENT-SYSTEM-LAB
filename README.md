@@ -9,10 +9,10 @@
 
   ### CSC502 & CSL503 · Semester V · Computer Engineering
 
-  [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
-  [![University](https://img.shields.io/badge/University-Mumbai-%23A6192E.svg)](https://mu.ac.in/)
-  [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-orange.svg)](https://ternaengg.ac.in/)
-  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
+  [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-6E7681.svg)](LICENSE)
+  [![University](https://img.shields.io/badge/University-Mumbai-A6192E.svg)](https://mu.ac.in/)
+  [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-E8710A.svg)](https://ternaengg.ac.in/)
+  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-0969DA.svg)](https://github.com/Amey-Thakur)
 
   **A comprehensive academic resource for Database Management System (DBMS) and Database Management System Laboratory (DBMS Lab), covering database models, SQL queries, normalization, transaction management, and practical implementations.**
 
@@ -146,9 +146,9 @@ The laboratory component (CSL503) focuses on hands-on implementation of SQL quer
 
 <div align="center">
 
-  [![Total Experiments](https://img.shields.io/badge/Total%20Experiments-10-yellowgreen.svg)](Database%20Management%20System%20Lab/)
-  [![Language](https://img.shields.io/badge/Language-SQL-blueviolet.svg)](Database%20Management%20System%20Lab/)
-  [![Status](https://img.shields.io/badge/Status-Complete-brightgreen.svg)](Database%20Management%20System%20Lab/)
+  [![Total Experiments](https://img.shields.io/badge/Total%20Experiments-10-795548.svg)](Database%20Management%20System%20Lab/)
+  [![Language](https://img.shields.io/badge/Language-SQL-8250DF.svg)](Database%20Management%20System%20Lab/)
+  [![Status](https://img.shields.io/badge/Status-Complete-2EA043.svg)](Database%20Management%20System%20Lab/)
 
 </div>
 
@@ -283,11 +283,11 @@ The laboratory component (CSL503) focuses on hands-on implementation of SQL quer
   
   **A comprehensive database management system for vehicle rentals**
   
-  [![Project](https://img.shields.io/badge/Project-Car%20Rental%20System-purple.svg)](https://github.com/Amey-Thakur/CAR-RENTAL-SYSTEM)
-  [![Platform](https://img.shields.io/badge/Platform-Web-green.svg)](https://github.com/Amey-Thakur/CAR-RENTAL-SYSTEM)
-  [![Technology](https://img.shields.io/badge/Technology-PHP%20%7C%20MySQL-blue.svg)](https://github.com/Amey-Thakur/CAR-RENTAL-SYSTEM)
-  [![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)](https://github.com/Amey-Thakur/CAR-RENTAL-SYSTEM)
-  [![Published Paper](https://img.shields.io/badge/Published%20Paper-IJRASET-gold.svg)](https://doi.org/10.22214/ijraset.2021.36339)
+  [![Project](https://img.shields.io/badge/Project-Car%20Rental%20System-BF3989.svg)](https://github.com/Amey-Thakur/CAR-RENTAL-SYSTEM)
+  [![Platform](https://img.shields.io/badge/Platform-Web-00838F.svg)](https://github.com/Amey-Thakur/CAR-RENTAL-SYSTEM)
+  [![Technology](https://img.shields.io/badge/Technology-PHP%20%7C%20MySQL-8250DF.svg)](https://github.com/Amey-Thakur/CAR-RENTAL-SYSTEM)
+  [![Status](https://img.shields.io/badge/Status-Completed-2EA043.svg)](https://github.com/Amey-Thakur/CAR-RENTAL-SYSTEM)
+  [![Published Paper](https://img.shields.io/badge/Published%20Paper-IJRASET-B8860B.svg)](https://doi.org/10.22214/ijraset.2021.36339)
 
 </div>
 

@@ -7,9 +7,9 @@
 
   ### CSL503 · Semester V · Computer Engineering
 
-  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
-  [![Programs](https://img.shields.io/badge/Programs-10-yellowgreen.svg)](#laboratory-experiments)
-  [![Language](https://img.shields.io/badge/Language-SQL-blueviolet.svg)](./)
+  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-0969DA.svg)](https://github.com/Amey-Thakur)
+  [![Programs](https://img.shields.io/badge/Programs-10-795548.svg)](#laboratory-experiments)
+  [![Language](https://img.shields.io/badge/Language-SQL-8250DF.svg)](./)
 
   **A collection of SQL programs covering DDL, DML, DCL commands, Joins, Views, Triggers, and more, executed as part of the Database Management System Laboratory.**
 
