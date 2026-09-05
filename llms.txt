@@ -1,0 +1,41 @@
+# Database Management System and Database Management System Laboratory
+
+> CSC502: Database Management System [DBMS] & CSL503: Database Management
+> System Lab [DBMS Lab] | TE Semester V | Computer Engineering
+
+Author: Amey Thakur, ORCID 0000-0001-5644-1575
+Co-author: Mega Satish, ORCID 0000-0002-1844-9557
+Institution: Terna Engineering College, University of Mumbai
+Programme: B.E. Computer Engineering, Third Year, Semester V
+Course codes: CSC502, CSL503
+Licence: CC BY 4.0, attribution required
+Repository created: 28 July 2021
+Work dated: 19 January 2021
+
+## What is in this repository
+
+- Assignments, 2 files
+- Database Management System Lab, 25 files
+- MEGA NOTES, 11 files
+- Mini Project Report, 1 file
+- Online Exam, 6 files
+- Question Papers, 3 files
+- Quizzes, 2 files
+- Reference Books, 11 files
+- Semester Exam, 2 files
+- Submission Report, 3 files
+- Syllabus, 2 files
+
+## Subject terms
+
+car-rental-system, computer-engineering, computer-science, database,
+database-management-system, database-systems, dbms, dbms-lab, engineering,
+mysql, oracle-database, reference-books, sql, textbooks,
+university-of-mumbai
+
+## Where this sits
+
+- This repository: https://github.com/Amey-Thakur/DATABASE-MANAGEMENT-SYSTEM-AND-DATABASE-MANAGEMENT-SYSTEM-LAB
+- Degree index, every subject and project: https://github.com/Amey-Thakur/COMPUTER-ENGINEERING
+- Author: https://github.com/Amey-Thakur
+- Research notes and reflections: https://amey-thakur.github.io/
